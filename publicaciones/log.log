@@ -1,0 +1,440 @@
+2018-12-06 00:59:30-call uspListarPublicaciones()
+2018-12-06 00:59:34-call uspEliminarPublicacion('1')
+2018-12-06 00:59:34-Se elimina publicación: 1
+2018-12-06 01:00:20-call uspListarPublicaciones()
+2018-12-06 01:00:21-call uspListarPublicaciones()
+2018-12-06 01:00:35-call uspEliminarPublicacion('1')
+2018-12-06 01:00:35-Se elimina publicación: 1
+2018-12-06 01:00:36-call uspListarPublicaciones()
+2018-12-06 01:01:36-call uspListarPublicaciones()
+2018-12-06 01:01:38-call uspListarPublicaciones()
+2018-12-06 01:01:40-call uspListarPublicaciones()
+2018-12-06 01:01:50-call uspListarPublicaciones()
+2018-12-06 01:02:35-call uspListarPublicaciones()
+2018-12-06 01:02:42-call uspListarPublicaciones()
+2018-12-06 01:02:48-call uspListarPublicaciones()
+2018-12-06 01:02:53-call uspListarPublicaciones()
+2018-12-06 01:03:01-call uspListarPublicaciones()
+2018-12-06 01:05:01-call uspListarPublicaciones()
+2018-12-06 01:05:09-call uspListarPublicaciones()
+2018-12-06 01:05:29-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\AOE000628MH5_NOM_NOMINA52781_1836.pdf
+2018-12-06 01:05:29-call uspAgregarPublicacion('AOE000628MH5_NOM_NOMINA52781_1836.pdf','AOE000628MH5_NOM_NOMINA52781_1836.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 01:05:29-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de noviembre.pdf
+2018-12-06 01:05:29-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\CodeIgniter_3_1_9_Manual_Esp.pdf
+aciones\\repositorio\\')
+nes\\repositorio\\')
+2018-12-06 01:05:29-call uspAgregarPublicacion('CodeIgniter_3_1_9_Manual_Esp.pdf','CodeIgniter_3_1_9_Manual_Esp.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 01:05:29-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\EdoCta_2018-02_00636197.pdf
+2018-12-06 01:05:29-call uspAgregarPublicacion('EdoCta_2018-02_00636197.pdf','EdoCta_2018-02_00636197.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 01:05:38-call uspListarPublicaciones()
+2018-12-06 01:08:03-call uspListarPublicaciones()
+2018-12-06 01:08:07-call uspEliminarPublicacion('2')
+2018-12-06 01:08:07-Se elimina publicación: 2
+2018-12-06 01:08:10-call uspListarPublicaciones()
+2018-12-06 01:08:15-call uspEliminarPublicacion('3')
+2018-12-06 01:08:16-Se elimina publicación: 3
+2018-12-06 01:08:19-call uspListarPublicaciones()
+2018-12-06 01:08:48-call uspListarPublicaciones()
+2018-12-06 01:08:50-call uspListarPublicaciones()
+2018-12-06 01:08:53-call uspEliminarPublicacion('4')
+2018-12-06 01:08:53-Se elimina publicación: 4
+2018-12-06 01:08:57-call uspListarPublicaciones()
+2018-12-06 01:13:45-call uspListarPublicaciones()
+2018-12-06 01:13:50-call uspEliminarPublicacion('5')
+2018-12-06 01:13:50-Se elimina publicación: 5
+2018-12-06 01:13:57-call uspEliminarPublicacion('5')
+2018-12-06 01:13:57-Se elimina publicación: 5
+2018-12-06 01:14:02-call uspEliminarPublicacion('6')
+2018-12-06 01:14:02-Se elimina publicación: 6
+2018-12-06 01:14:04-call uspListarPublicaciones()
+2018-12-06 01:14:26-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\AOE000628MH5_NOM_NOMINA52781_1836.pdf
+2018-12-06 01:14:26-call uspAgregarPublicacion('AOE000628MH5_NOM_NOMINA52781_1836.pdf','AOE000628MH5_NOM_NOMINA52781_1836.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 01:14:26-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de noviembre.pdf
+2018-12-06 01:14:26-call uspAgregarPublicacion('Horario 19 de noviembre.pdf','Horario 19 de noviembre.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 01:14:26-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\FIESTA DE FIN DE AÑO 2020.pdf
+2018-12-06 01:14:26-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de dddd.pdf
+2018-12-06 01:14:26-call uspAgregarPublicacion('FIESTA DE FIN DE AÑO 2020.pdf','FIESTA DE FIN DE AÑO 2020.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 01:14:26-call uspAgregarPublicacion('Horario 19 de dddd.pdf','Horario 19 de dddd.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 01:14:26-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\CodeIgniter_3_1_9_Manual_Esp.pdf
+2018-12-06 01:14:26-call uspAgregarPublicacion('CodeIgniter_3_1_9_Manual_Esp.pdf','CodeIgniter_3_1_9_Manual_Esp.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 01:14:28-call uspListarPublicaciones()
+2018-12-06 01:14:32-call uspEliminarPublicacion('7')
+2018-12-06 01:14:32-Se elimina publicación: 7
+2018-12-06 01:14:33-call uspListarPublicaciones()
+2018-12-06 01:15:46-call uspListarPublicaciones()
+2018-12-06 01:15:47-call uspListarPublicaciones()
+2018-12-06 01:15:51-call uspEliminarPublicacion('8')
+2018-12-06 01:15:51-Se elimina publicación: 8
+2018-12-06 01:17:14-call uspListarPublicaciones()
+2018-12-06 01:17:19-call uspEliminarPublicacion('9')
+2018-12-06 01:17:19-Se elimina publicación: 9
+2018-12-06 01:18:23-call uspListarPublicaciones()
+2018-12-06 01:18:27-call uspEliminarPublicacion('10')
+2018-12-06 01:18:27-Se elimina publicación: 10
+2018-12-06 01:18:27-call uspListarPublicaciones()
+2018-12-06 01:18:31-call uspListarPublicaciones()
+2018-12-06 01:18:38-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\EdoCta_2018-02_00636197.pdf
+2018-12-06 01:18:38-call uspAgregarPublicacion('EdoCta_2018-02_00636197.pdf','EdoCta_2018-02_00636197.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 01:18:38-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\FIESTA DE FIN DE AÑO 2020.pdf
+2018-12-06 01:18:38-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de noviembre.pdf
+2018-12-06 01:18:38-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\AOE000628MH5_NOM_NOMINA52781_1836.pdf
+2018-12-06 01:18:38-call uspAgregarPublicacion('Horario 19 de noviembre.pdf','Horario 19 de noviembre.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 01:18:38-call uspAgregarPublicacion('Horario 19 de dddd.pdf','Horario 19 de dddd.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+blicaciones\\repositorio\\')
+2018-12-06 01:19:00-call uspListarPublicaciones()
+2018-12-06 01:19:10-call uspEliminarPublicacion('11')
+2018-12-06 01:19:10-Se elimina publicación: 11
+2018-12-06 01:19:10-call uspListarPublicaciones()
+2018-12-06 01:19:22-call uspEliminarPublicacion('12')
+2018-12-06 01:19:22-Se elimina publicación: 12
+2018-12-06 01:19:22-call uspListarPublicaciones()
+2018-12-06 01:19:27-call uspEliminarPublicacion('13')
+2018-12-06 01:19:27-Se elimina publicación: 13
+2018-12-06 01:19:27-call uspListarPublicaciones()
+2018-12-06 01:19:29-call uspEliminarPublicacion('14')
+2018-12-06 01:19:29-Se elimina publicación: 14
+2018-12-06 01:19:29-call uspListarPublicaciones()
+2018-12-06 01:19:32-call uspEliminarPublicacion('15')
+2018-12-06 01:19:32-Se elimina publicación: 15
+2018-12-06 01:19:32-call uspListarPublicaciones()
+2018-12-06 01:19:35-call uspEliminarPublicacion('16')
+2018-12-06 01:19:36-Se elimina publicación: 16
+2018-12-06 01:19:36-call uspListarPublicaciones()
+2018-12-06 01:26:16-call uspListarPublicaciones()
+2018-12-06 01:26:19-call uspListarPublicaciones()
+2018-12-06 01:27:25-call uspListarPublicaciones()
+2018-12-06 01:27:48-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\EdoCta_2018-02_00636197.pdf
+2018-12-06 01:27:48-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\AOE000628MH5_NOM_NOMINA52781_1836.pdf
+2018-12-06 01:27:48-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de dddd.pdf
+2018-12-06 01:27:48-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\CodeIgniter_3_1_9_Manual_Esp.pdf
+docs\\publicaciones\\repositorio\\')
+2018-12-06 01:27:48-call uspAgregarPublicacion('CodeIgniter_3_1_9_Manual_Esp.pdf','CodeIgniter_3_1_9_Manual_Esp.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+orio\\')
+2018-12-06 01:27:51-call uspListarPublicaciones()
+2018-12-06 01:27:54-call uspEliminarPublicacion('17')
+2018-12-06 01:27:54-Se elimina publicación: 17
+2018-12-06 01:27:54-call uspListarPublicaciones()
+2018-12-06 01:27:57-call uspEliminarPublicacion('18')
+2018-12-06 01:27:57-Se elimina publicación: 18
+2018-12-06 01:27:57-call uspListarPublicaciones()
+2018-12-06 02:21:59-call uspListarPublicaciones()
+2018-12-06 02:22:02-call uspListarPublicaciones()
+2018-12-06 02:28:25-call uspListarPublicaciones()
+2018-12-06 02:28:34-call uspListarPublicaciones()
+2018-12-06 02:28:36-call uspListarPublicaciones()
+2018-12-06 02:28:37-call uspListarPublicaciones()
+2018-12-06 02:28:38-call uspListarPublicaciones()
+2018-12-06 02:28:38-call uspListarPublicaciones()
+2018-12-06 02:28:38-call uspListarPublicaciones()
+2018-12-06 02:28:38-call uspListarPublicaciones()
+2018-12-06 02:28:39-call uspListarPublicaciones()
+2018-12-06 02:28:58-call uspListarPublicaciones()
+2018-12-06 02:29:06-call uspListarPublicaciones()
+2018-12-06 02:29:40-call uspListarPublicaciones()
+2018-12-06 02:30:24-call uspListarPublicaciones()
+2018-12-06 02:30:52-call uspListarPublicaciones()
+2018-12-06 02:30:53-call uspListarPublicaciones()
+2018-12-06 02:31:36-call uspListarPublicaciones()
+2018-12-06 02:31:39-call uspListarPublicaciones()
+2018-12-06 02:31:41-call uspListarPublicaciones()
+2018-12-06 02:34:37-call uspListarPublicaciones()
+2018-12-06 02:34:38-call uspListarPublicaciones()
+2018-12-06 02:34:46-call uspListarPublicaciones()
+2018-12-06 02:34:53-call uspListarPublicaciones()
+2018-12-06 02:35:56-call uspListarPublicaciones()
+2018-12-06 02:36:22-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\prueba.pdf
+2018-12-06 02:36:22-call uspAgregarPublicacion('prueba.pdf','prueba.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:36:54-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\prueba.pdf
+2018-12-06 02:36:54-call uspAgregarPublicacion('prueba.pdf','prueba.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:38:01-call uspListarPublicaciones()
+2018-12-06 02:38:12-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\prueba.pdf
+2018-12-06 02:38:12-call uspAgregarPublicacion('prueba.pdf','prueba.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:38:39-call uspListarPublicaciones()
+2018-12-06 02:38:45-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\prueba.pdf
+2018-12-06 02:38:45-call uspAgregarPublicacion('prueba.pdf','prueba.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:38:47-call uspListarPublicaciones()
+2018-12-06 02:44:48-call uspListarPublicaciones()
+2018-12-06 02:44:54-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\prueba.pdf
+2018-12-06 02:44:54-call uspAgregarPublicacion('prueba.pdf','prueba.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:45:34-call uspListarPublicaciones()
+2018-12-06 02:45:35-call uspListarPublicaciones()
+2018-12-06 02:45:41-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\prueba.pdf
+2018-12-06 02:45:41-call uspAgregarPublicacion('prueba.pdf','prueba.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:45:50-call uspListarPublicaciones()
+2018-12-06 02:47:20-call uspListarPublicaciones()
+2018-12-06 02:51:20-call uspListarPublicaciones()
+2018-12-06 02:51:26-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\prueba.pdf
+2018-12-06 02:51:26-call uspAgregarPublicacion('prueba.pdf','prueba.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:51:26-call uspListarPublicaciones()
+2018-12-06 02:51:39-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Mercadotecnia_0.pdf
+2018-12-06 02:51:39-call uspAgregarPublicacion('Mercadotecnia_0.pdf','Mercadotecnia_0.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:51:39-call uspListarPublicaciones()
+2018-12-06 02:51:45-call uspListarPublicaciones()
+2018-12-06 02:53:42-call uspListarPublicaciones()
+2018-12-06 02:54:01-call uspListarPublicaciones()
+2018-12-06 02:54:37-call uspEliminarPublicacion('19')
+2018-12-06 02:54:37-Se elimina publicación: 19
+2018-12-06 02:54:37-call uspListarPublicaciones()
+2018-12-06 02:54:44-call uspEliminarPublicacion('20')
+2018-12-06 02:54:44-Se elimina publicación: 20
+2018-12-06 02:54:44-call uspListarPublicaciones()
+2018-12-06 02:54:45-call uspEliminarPublicacion('21')
+2018-12-06 02:54:45-Se elimina publicación: 21
+2018-12-06 02:54:45-call uspListarPublicaciones()
+2018-12-06 02:54:46-call uspEliminarPublicacion('22')
+2018-12-06 02:54:46-Se elimina publicación: 22
+2018-12-06 02:54:46-call uspListarPublicaciones()
+2018-12-06 02:54:48-call uspEliminarPublicacion('29')
+2018-12-06 02:54:48-Se elimina publicación: 29
+2018-12-06 02:54:48-call uspListarPublicaciones()
+2018-12-06 02:56:04-call uspListarPublicaciones()
+2018-12-06 02:56:27-call uspListarPublicaciones()
+2018-12-06 02:58:19-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Mercadotecnia_0.pdf
+2018-12-06 02:58:19-call uspAgregarPublicacion('Mercadotecnia_0.pdf','Mercadotecnia_0.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:58:26-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Mensaje de DirecciÃ³n - Fiesta de fin de aÃ±o 2018.pdf
+2018-12-06 02:58:26-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Ingenieria-en-Sistemas-Computacionales.pdf
+recciÃ³n - Fiesta de fin de aÃ±o 2018.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:58:26-call uspAgregarPublicacion('Ingenieria-en-Sistemas-Computacionales.pdf','Ingenieria-en-Sistemas-Computacionales.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:58:26-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de noviembre.pdf
+2018-12-06 02:58:26-call uspAgregarPublicacion('Horario 19 de noviembre.pdf','Horario 19 de noviembre.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:58:26-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Mercadotecnia_0.pdf
+2018-12-06 02:58:26-call uspAgregarPublicacion('Mercadotecnia_0.pdf','Mercadotecnia_0.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:58:35-call uspListarPublicaciones()
+2018-12-06 02:58:43-call uspEliminarPublicacion('30')
+2018-12-06 02:58:43-Se elimina publicación: 30
+2018-12-06 02:58:43-call uspListarPublicaciones()
+2018-12-06 02:58:51-call uspEliminarPublicacion('31')
+2018-12-06 02:58:51-Se elimina publicación: 31
+2018-12-06 02:58:51-call uspListarPublicaciones()
+2018-12-06 02:58:55-call uspEliminarPublicacion('32')
+2018-12-06 02:58:55-Se elimina publicación: 32
+2018-12-06 02:58:55-call uspListarPublicaciones()
+2018-12-06 02:58:57-call uspEliminarPublicacion('33')
+2018-12-06 02:58:57-Se elimina publicación: 33
+2018-12-06 02:58:57-call uspListarPublicaciones()
+2018-12-06 02:59:01-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Mensaje de DirecciÃ³n - Fiesta de fin de aÃ±o 2018.pdf
+2018-12-06 02:59:01-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Mercadotecnia_0.pdf
+re.pdf
+,'Mensaje de DirecciÃ³n - Fiesta de fin de aÃ±o 2018.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 02:59:01-call uspAgregarPublicacion('Horario 19 de noviembre.pdf','Horario 19 de noviembre.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+blicaciones\\repositorio\\')
+2018-12-06 02:59:05-call uspListarPublicaciones()
+2018-12-06 16:53:53-call uspListarPublicaciones()
+2018-12-06 16:54:10-call uspListarPublicaciones()
+2018-12-06 16:55:22-call uspListarPublicaciones()
+2018-12-06 16:56:12-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de dddd.pdf
+2018-12-06 16:56:12-call uspAgregarPublicacion('Horario 19 de dddd.pdf','Horario 19 de dddd.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 17:00:13-call uspListarPublicaciones()
+2018-12-06 17:00:55-call uspListarPublicaciones()
+2018-12-06 17:05:02-call uspListarPublicaciones()
+2018-12-06 17:07:32-call uspListarPublicaciones()
+2018-12-06 17:07:40-call uspListarPublicaciones()
+2018-12-06 17:07:47-call uspEliminarPublicacion('35')
+2018-12-06 17:07:47-Se elimina publicación: 35
+2018-12-06 17:07:47-call uspListarPublicaciones()
+2018-12-06 17:07:49-call uspEliminarPublicacion('36')
+2018-12-06 17:07:49-Se elimina publicación: 36
+2018-12-06 17:07:49-call uspListarPublicaciones()
+2018-12-06 17:07:52-call uspEliminarPublicacion('37')
+2018-12-06 17:07:52-Se elimina publicación: 37
+2018-12-06 17:07:52-call uspListarPublicaciones()
+2018-12-06 17:07:54-call uspEliminarPublicacion('38')
+2018-12-06 17:07:54-Se elimina publicación: 38
+2018-12-06 17:07:54-call uspListarPublicaciones()
+2018-12-06 17:07:56-call uspEliminarPublicacion('39')
+2018-12-06 17:07:56-Se elimina publicación: 39
+2018-12-06 17:07:56-call uspListarPublicaciones()
+2018-12-06 17:07:58-call uspListarPublicaciones()
+2018-12-06 17:08:07-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Ingenieria-en-Sistemas-Computacionales.pdf
+Ã±o 2018.pdf
+2018-12-06 17:08:07-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de dddd.pdf
+pdf
+2018-12-06 17:08:07-call uspAgregarPublicacion('Ingenieria-en-Sistemas-Computacionales.pdf','Ingenieria-en-Sistemas-Computacionales.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+publicaciones\\repositorio\\')
+2018-12-06 17:08:07-call uspAgregarPublicacion('Horario 19 de noviembre.pdf','Horario 19 de noviembre.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 17:08:11-call uspListarPublicaciones()
+2018-12-06 17:08:20-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Ticket de Venta.pdf
+2018-12-06 17:08:20-call uspAgregarPublicacion('Ticket de Venta.pdf','Ticket de Venta.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 17:08:20-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\SaludCorp.pdf
+2018-12-06 17:08:20-call uspAgregarPublicacion('SaludCorp.pdf','SaludCorp.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 17:08:20-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Mercadotecnia_0.pdf
+2018-12-06 17:08:20-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\prueba.pdf
+2018-12-06 17:08:20-call uspAgregarPublicacion('Mercadotecnia_0.pdf','Mercadotecnia_0.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 17:08:20-call uspAgregarPublicacion('prueba.pdf','prueba.pdf','C:\\xampp7\\htdocs\\publicaciones\\repositorio\\')
+2018-12-06 17:08:22-call uspListarPublicaciones()
+2018-12-06 17:08:30-call uspListarPublicaciones()
+2018-12-06 17:08:33-call uspListarPublicaciones()
+2018-12-06 17:08:36-call uspListarPublicaciones()
+2018-12-06 17:17:56-call uspListarPublicaciones()
+2018-12-06 17:18:32-call uspListarPublicaciones()
+2018-12-06 17:26:20-call uspListarPublicaciones()
+2018-12-06 17:27:36-call uspListarPublicaciones()
+2018-12-06 17:27:47-call uspListarPublicaciones()
+2018-12-06 17:27:51-call uspListarPublicaciones()
+2018-12-06 17:27:56-call uspListarPublicaciones()
+2018-12-06 17:27:59-call uspListarPublicaciones()
+2018-12-06 17:28:00-call uspListarPublicaciones()
+2018-12-06 17:28:01-call uspListarPublicaciones()
+2018-12-06 17:28:01-call uspListarPublicaciones()
+2018-12-06 17:28:03-call uspListarPublicaciones()
+2018-12-06 17:28:05-call uspListarPublicaciones()
+2018-12-06 17:28:47-call uspListarPublicaciones()
+2018-12-06 17:29:27-call uspListarPublicaciones()
+2018-12-06 17:29:57-call uspListarPublicaciones()
+2018-12-06 17:30:37-call uspListarPublicaciones()
+2018-12-06 17:31:02-call uspListarPublicaciones()
+2018-12-06 17:31:04-call uspListarPublicaciones()
+2018-12-06 17:31:34-call uspListarPublicaciones()
+2018-12-06 17:31:39-call uspListarPublicaciones()
+2018-12-06 17:31:40-call uspListarPublicaciones()
+2018-12-06 17:31:42-call uspListarPublicaciones()
+2018-12-06 17:32:31-call uspListarPublicaciones()
+2018-12-06 17:32:31-call uspListarPublicaciones()
+2018-12-06 17:32:47-call uspListarPublicaciones()
+2018-12-06 17:32:58-call uspListarPublicaciones()
+2018-12-06 17:38:19-call uspListarPublicaciones()
+2018-12-06 17:38:21-call uspListarPublicaciones()
+2018-12-06 17:38:27-call uspListarPublicaciones()
+2018-12-06 17:38:28-call uspListarPublicaciones()
+2018-12-06 17:38:29-call uspListarPublicaciones()
+2018-12-06 17:38:31-call uspListarPublicaciones()
+2018-12-06 17:59:46-call uspListarPublicaciones()
+2018-12-06 18:00:02-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Ticket de Venta.pdf
+2018-12-06 18:00:02-call uspAgregarPublicacion('Ticket de Venta.pdf','Ticket de Venta.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 18:00:02-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\SaludCorp.pdf
+cciÃ³n - Fiesta de fin de aÃ±o 2018.pdf
+2018-12-06 18:00:02-call uspAgregarPublicacion('prueba.pdf','prueba.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+s/repositorio/')
+ta de fin de aÃ±o 2018.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 18:00:04-call uspListarPublicaciones()
+2018-12-06 18:01:56-call uspEliminarPublicacion('1')
+2018-12-06 18:01:56-Se elimina publicación: 1
+2018-12-06 18:01:56-call uspListarPublicaciones()
+2018-12-06 18:02:08-call uspEliminarPublicacion('2')
+2018-12-06 18:02:08-Se elimina publicación: 2
+2018-12-06 18:02:08-call uspListarPublicaciones()
+2018-12-06 18:02:10-call uspEliminarPublicacion('3')
+2018-12-06 18:02:10-Se elimina publicación: 3
+2018-12-06 18:02:10-call uspListarPublicaciones()
+2018-12-06 18:02:30-call uspEliminarPublicacion('4')
+2018-12-06 18:02:30-Se elimina publicación: 4
+2018-12-06 18:02:30-call uspListarPublicaciones()
+2018-12-06 18:02:33-call uspEliminarPublicacion('5')
+2018-12-06 18:02:33-Se elimina publicación: 5
+2018-12-06 18:02:33-call uspListarPublicaciones()
+2018-12-06 18:02:55-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Ticket de Venta.pdf
+2018-12-06 18:02:55-call uspAgregarPublicacion('Ticket de Venta.pdf','Ticket de Venta.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 18:02:55-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\SaludCorp.pdf
+.pdf
+2018-12-06 18:02:55-call uspAgregarPublicacion('SaludCorp.pdf','SaludCorp.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+Ã³n - Fiesta de fin de aÃ±o 2018.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 18:02:56-call uspListarPublicaciones()
+2018-12-06 18:03:06-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de dddd.pdf
+omputacionales.pdf
+2018-12-06 18:03:06-call uspAgregarPublicacion('Horario 19 de dddd.pdf','Horario 19 de dddd.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 18:03:06-call uspAgregarPublicacion('Ingenieria-en-Sistemas-Computacionales.pdf','Ingenieria-en-Sistemas-Computacionales.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 18:03:06-call uspAgregarPublicacion('FIESTA DE FIN DE AÑO 2020.pdf','FIESTA DE FIN DE AÑO 2020.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 18:03:06-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\e-commerce_0.pdf
+2018-12-06 18:03:06-call uspAgregarPublicacion('e-commerce_0.pdf','e-commerce_0.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 18:03:06-call uspAgregarPublicacion('EdoCta_2018-02_00636197.pdf','EdoCta_2018-02_00636197.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 18:03:08-call uspListarPublicaciones()
+2018-12-06 18:03:16-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\AOE000628MH5_NOM_NOMINA52781_1836.pdf
+2018-12-06 18:03:16-call uspAgregarPublicacion('AOE000628MH5_NOM_NOMINA52781_1836.pdf','AOE000628MH5_NOM_NOMINA52781_1836.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 18:03:17-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\CodeIgniter_3_1_9_Manual_Esp.pdf
+2018-12-06 18:03:17-call uspAgregarPublicacion('CodeIgniter_3_1_9_Manual_Esp.pdf','CodeIgniter_3_1_9_Manual_Esp.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 18:03:18-call uspListarPublicaciones()
+2018-12-06 18:03:40-call uspEliminarPublicacion('9')
+2018-12-06 18:03:41-Se elimina publicación: 9
+2018-12-06 18:03:41-call uspListarPublicaciones()
+2018-12-06 18:03:52-call uspListarPublicaciones()
+2018-12-06 18:05:39-call uspListarPublicaciones()
+2018-12-06 18:06:19-call uspListarPublicaciones()
+2018-12-06 18:07:48-call uspEliminarPublicacion('13')
+2018-12-06 18:07:48-Se elimina publicación: 13
+2018-12-06 18:07:48-call uspListarPublicaciones()
+2018-12-06 18:07:57-call uspListarPublicaciones()
+2018-12-06 18:08:04-call uspListarPublicaciones()
+2018-12-06 18:09:07-call uspListarPublicaciones()
+2018-12-06 18:09:09-call uspListarPublicaciones()
+2018-12-06 18:09:16-call uspEliminarPublicacion('6')
+2018-12-06 18:09:16-Se elimina publicación: 6
+2018-12-06 18:09:16-call uspListarPublicaciones()
+2018-12-06 18:11:15-call uspListarPublicaciones()
+2018-12-06 18:11:20-call uspEliminarPublicacion('7')
+2018-12-06 18:11:20-Se elimina publicación: 7
+2018-12-06 18:11:20-call uspListarPublicaciones()
+2018-12-06 18:11:36-call uspEliminarPublicacion('8')
+2018-12-06 18:11:36-Se elimina publicación: 8
+2018-12-06 18:11:36-call uspListarPublicaciones()
+2018-12-06 18:11:38-call uspEliminarPublicacion('10')
+2018-12-06 18:11:38-Se elimina publicación: 10
+2018-12-06 18:11:38-call uspListarPublicaciones()
+2018-12-06 18:11:44-call uspEliminarPublicacion('11')
+2018-12-06 18:11:44-Se elimina publicación: 11
+2018-12-06 18:11:44-call uspListarPublicaciones()
+2018-12-06 18:11:46-call uspEliminarPublicacion('12')
+2018-12-06 18:11:46-Se elimina publicación: 12
+2018-12-06 18:11:46-call uspListarPublicaciones()
+2018-12-06 18:11:48-call uspEliminarPublicacion('14')
+2018-12-06 18:11:48-Se elimina publicación: 14
+2018-12-06 18:11:48-call uspListarPublicaciones()
+2018-12-06 18:11:50-call uspEliminarPublicacion('15')
+2018-12-06 18:11:50-Se elimina publicación: 15
+2018-12-06 18:11:50-call uspListarPublicaciones()
+2018-12-06 18:11:54-call uspEliminarPublicacion('16')
+2018-12-06 18:11:54-Se elimina publicación: 16
+2018-12-06 18:11:54-call uspListarPublicaciones()
+2018-12-06 18:12:04-call uspEliminarPublicacion('17')
+2018-12-06 18:12:04-Se elimina publicación: 17
+2018-12-06 18:12:04-call uspListarPublicaciones()
+2018-12-06 18:12:11-call uspListarPublicaciones()
+2018-12-06 18:45:41-call uspListarPublicaciones()
+2018-12-06 18:59:10-call uspListarPublicaciones()
+2018-12-06 19:00:11-call uspListarPublicaciones()
+2018-12-06 19:00:53-call uspListarPublicaciones()
+2018-12-06 19:27:24-call uspListarPublicaciones()
+2018-12-06 20:50:52-call uspListarPublicaciones()
+2018-12-06 20:52:26-call uspValidarExistenciaPublicacion('Horario 19 de dddd.pdf')
+2018-12-06 20:53:17-call uspValidarExistenciaPublicacion('Horario 19 de dddd.pdf')
+2018-12-06 20:53:32-call uspListarPublicaciones()
+2018-12-06 20:53:57-call uspValidarExistenciaPublicacion('Horario 19 de noviembre.pdf')
+2018-12-06 20:54:27-call uspValidarExistenciaPublicacion('Horario 19 de noviembre.pdf')
+2018-12-06 20:54:31-call uspValidarExistenciaPublicacion('Horario 19 de noviembre.pdf')
+2018-12-06 20:56:29-call uspValidarExistenciaPublicacion('Horario 19 de noviembre.pdf')
+2018-12-06 20:57:42-call uspValidarExistenciaPublicacion('Horario 19 de noviembre.pdf')
+2018-12-06 21:00:14-call uspListarPublicaciones()
+2018-12-06 21:00:16-call uspListarPublicaciones()
+2018-12-06 21:00:28-call uspValidarExistenciaPublicacion('Horario 19 de dddd.pdf')
+2018-12-06 21:00:28-call uspValidarExistenciaPublicacion('Horario 19 de noviembre.pdf')
+2018-12-06 21:00:28-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de dddd.pdf
+pdf
+2018-12-06 21:00:28-call uspAgregarPublicacion('Horario 19 de noviembre.pdf','Horario 19 de noviembre.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 21:00:28-call uspValidarExistenciaPublicacion('FIESTA DE FIN DE AÑO 2020.pdf')
+2018-12-06 21:00:28-call uspValidarExistenciaPublicacion('EdoCta_2018-02_00636197.pdf')
+2018-12-06 21:00:28-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\FIESTA DE FIN DE AÑO 2020.pdf
+2018-12-06 21:00:28-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\EdoCta_2018-02_00636197.pdf
+2018-12-06 21:00:28-call uspAgregarPublicacion('FIESTA DE FIN DE AÑO 2020.pdf','FIESTA DE FIN DE AÑO 2020.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 21:00:28-call uspAgregarPublicacion('EdoCta_2018-02_00636197.pdf','EdoCta_2018-02_00636197.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 21:00:32-call uspListarPublicaciones()
+2018-12-06 21:00:45-call uspValidarExistenciaPublicacion('Horario 19 de dddd.pdf')
+f')
+2018-12-06 21:00:45-call uspValidarExistenciaPublicacion('EdoCta_2018-02_00636197.pdf')
+2018-12-06 21:00:45-call uspValidarExistenciaPublicacion('FIESTA DE FIN DE AÑO 2020.pdf')
+2018-12-06 21:16:04-call uspListarPublicaciones()
+2018-12-06 21:16:15-call uspValidarExistenciaPublicacion('EdoCta_2018-02_00636197.pdf')
+2018-12-06 21:16:15-call uspValidarExistenciaPublicacion('Horario 19 de noviembre.pdf')
+)
+2018-12-06 21:16:28-call uspListarPublicaciones()
+2018-12-06 21:16:35-call uspValidarExistenciaPublicacion('e-commerce_0.pdf')
+2018-12-06 21:16:35-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\e-commerce_0.pdf
+2018-12-06 21:16:35-call uspAgregarPublicacion('e-commerce_0.pdf','e-commerce_0.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 21:16:36-call uspValidarExistenciaPublicacion('CodeIgniter_3_1_9_Manual_Esp.pdf')
+2018-12-06 21:16:36-Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\CodeIgniter_3_1_9_Manual_Esp.pdf
+2018-12-06 21:16:36-call uspAgregarPublicacion('CodeIgniter_3_1_9_Manual_Esp.pdf','CodeIgniter_3_1_9_Manual_Esp.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-06 21:19:39-call uspListarPublicaciones()
+2018-12-06 21:19:52-call uspEliminarPublicacion('19')
+2018-12-06 21:19:52-Se elimina publicación: 19
+2018-12-06 21:19:52-call uspListarPublicaciones()
+2018-12-06 21:19:57-call uspEliminarPublicacion('23')
+2018-12-06 21:19:57-Se elimina publicación: 23
+2018-12-06 21:19:57-call uspListarPublicaciones()

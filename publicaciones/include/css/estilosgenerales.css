@@ -1,0 +1,97 @@
+﻿#form-ingreso{
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    border-color: rgb(23, 162, 184);
+    border-style: solid;
+    border-width: 1px;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+#contenedor-drag{
+    display: block;
+    position: absolute;
+    top: 4%;
+    left: 4%;
+    width: 650px;
+}
+
+#contenedor-modal-grag{
+    display: block;
+    position: absolute;
+    top: 557px;
+    left: 78%;
+    width: 650px;
+}
+
+#Contendor-Listado{
+    display: block;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    width: 1005px;
+    border-color: rgb(222, 226, 230);
+    border-width: 2px;
+    border-style: solid;
+}
+
+#titulo-carga{
+    display: block;
+    position: absolute;
+    top: 34px;
+    left: 40px;
+    color: rgb(228, 69, 141);
+}
+
+#boton-finalizar{
+    display: block;
+    position: relative;
+    top: -72px;
+    left: 322px;
+    z-index: 2;
+}
+
+tbody {
+    height: 400px;
+    overflow: auto;
+    width: 1000px;
+}
+
+thead > tr, tbody{
+    display:block;
+}
+
+#th_ID{
+    width: 40px;
+}
+
+#th_NombrePublicacion{
+    width: 400px;
+}
+
+#td_NombrePublicacion{
+    width: 420px;
+}
+
+#td_Documento{
+    width: 90px;
+}
+
+#td_FechadeAlta{
+    width: 130px;
+}
+
+#th_UltimaActualizacion{
+    width: 200px;
+}
+
+#td_UltimaActualizacion{
+    width: 190px;
+}
+
+#th_Acciones{
+    width: 120px;
+}
