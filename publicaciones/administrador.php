@@ -6,6 +6,12 @@
     $ControladorGlobal = new CtrlGlobal();
     $ControladorListado = new CtrlListado();
     $Html = new Html();
+
+    session_start(); 
+    if (!isset($_SESSION["NombreUsuario"])) { 
+        header('Location: login.php');  
+    }
+
 ?>
 <!DOCTYPE html>
 <html>

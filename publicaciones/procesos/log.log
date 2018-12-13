@@ -133,3 +133,132 @@ df')
 2018-12-13 02:46:20-call uspListarPublicacionesPorBusqueda('')
 2018-12-13 02:53:06-call uspInsertarInformacionDescarga('16','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
 2018-12-13 02:53:06-Se descarga la publicación con id: 16
+2018-12-13 22:35:17-call uspValidarAccesoUsuario('','')
+2018-12-13 22:35:22-call uspValidarAccesoUsuario('','')
+2018-12-13 22:35:23-call uspValidarAccesoUsuario('','')
+2018-12-13 22:36:48-Intebto de acceso al sistema: 
+2018-12-13 22:36:48-call uspValidarAccesoUsuario('','')
+2018-12-13 22:36:48-Intebto de acceso al sistema: 
+2018-12-13 22:36:48-call uspValidarAccesoUsuario('','')
+2018-12-13 22:36:48-Intebto de acceso al sistema: 
+2018-12-13 22:36:48-call uspValidarAccesoUsuario('','')
+2018-12-13 22:36:48-Intebto de acceso al sistema: 
+2018-12-13 22:36:48-call uspValidarAccesoUsuario('','')
+2018-12-13 22:36:49-Intebto de acceso al sistema: 
+2018-12-13 22:36:49-call uspValidarAccesoUsuario('','')
+2018-12-13 22:38:23-Intento de acceso al sistema: 
+2018-12-13 22:38:23-call uspValidarAccesoUsuario('','')
+2018-12-13 22:38:25-Intento de acceso al sistema: 
+2018-12-13 22:38:25-call uspValidarAccesoUsuario('','')
+2018-12-13 22:38:25-Intento de acceso al sistema: 
+2018-12-13 22:38:25-call uspValidarAccesoUsuario('','')
+2018-12-13 22:38:25-Intento de acceso al sistema: 
+2018-12-13 22:38:25-call uspValidarAccesoUsuario('','')
+2018-12-13 22:38:25-Intento de acceso al sistema: 
+2018-12-13 22:38:25-call uspValidarAccesoUsuario('','')
+2018-12-13 22:38:55-Intento de acceso al sistema: 
+2018-12-13 22:39:03-call uspValidarAccesoUsuario('','')
+2018-12-13 22:48:01-Intento de acceso al sistema: 
+2018-12-13 22:48:01-call uspValidarAccesoUsuario('','')
+2018-12-13 22:48:13-Intento de acceso al sistema: 
+2018-12-13 22:48:13-call uspValidarAccesoUsuario('','')
+2018-12-13 22:48:47-Intento de acceso al sistema: rr
+2018-12-13 22:48:48-call uspValidarAccesoUsuario('rr','rr')
+2018-12-13 22:50:03-Intento de acceso al sistema: rr
+2018-12-13 22:50:03-call uspValidarAccesoUsuario('rr','rr')
+2018-12-13 22:50:09-Intento de acceso al sistema: 
+2018-12-13 22:50:09-call uspValidarAccesoUsuario('','')
+2018-12-13 22:50:34-Intento de acceso al sistema: 
+2018-12-13 22:50:40-call uspValidarAccesoUsuario('','')
+2018-12-13 22:52:55-Intento de acceso al sistema: 
+2018-12-13 22:53:00-call uspValidarAccesoUsuario('','')
+2018-12-13 22:55:19-Intento de acceso al sistema: 
+2018-12-13 22:55:19-call uspValidarAccesoUsuario(,)
+2018-12-13 22:56:13-Intento de acceso al sistema: 
+2018-12-13 22:56:13-call uspValidarAccesoUsuario('','')
+2018-12-13 22:57:16-Intento de acceso al sistema: 
+2018-12-13 22:57:16-call uspValidarAccesoUsuario('','')
+2018-12-13 22:57:46-Intento de acceso al sistema: 
+2018-12-13 22:57:46-call uspValidarAccesoUsuario('','')
+2018-12-13 22:58:56-Intento de acceso al sistema: 
+2018-12-13 22:58:56-call uspValidarAccesoUsuario('','')
+2018-12-13 22:59:37-Intento de acceso al sistema: 
+2018-12-13 22:59:37-call uspValidarAccesoUsuario('','')
+2018-12-13 23:00:00-Intento de acceso al sistema: 
+2018-12-13 23:00:00-call uspValidarAccesoUsuario('','')
+2018-12-13 23:00:42-Intento de acceso al sistema: 
+2018-12-13 23:00:42-call uspValidarAccesoUsuario('','')
+2018-12-13 23:02:06-Intento de acceso al sistema: 
+2018-12-13 23:02:06-call uspValidarAccesoUsuario('','')
+2018-12-13 23:03:13-Intento de acceso al sistema: 
+2018-12-13 23:03:13-call uspValidarAccesoUsuario('','')
+2018-12-13 23:03:57-Intento de acceso al sistema: 
+2018-12-13 23:03:57-call uspValidarAccesoUsuario('','')
+2018-12-13 23:04:50-Intento de acceso al sistema: 
+2018-12-13 23:04:50-call uspValidarAccesoUsuario('','')
+2018-12-13 23:05:06-Intento de acceso al sistema: 
+2018-12-13 23:05:07-call uspValidarAccesoUsuario('','')
+2018-12-13 23:05:27-Intento de acceso al sistema: 
+2018-12-13 23:05:27-call uspValidarAccesoUsuario('','')
+2018-12-13 23:05:51-Intento de acceso al sistema: 
+2018-12-13 23:05:51-call uspValidarAccesoUsuario('','')
+2018-12-13 23:06:00-Intento de acceso al sistema: 
+2018-12-13 23:06:00-call uspValidarAccesoUsuario('','')
+2018-12-13 23:06:20-Intento de acceso al sistema: 
+2018-12-13 23:06:20-call uspValidarAccesoUsuario('','')
+2018-12-13 23:06:30-Intento de acceso al sistema: 
+2018-12-13 23:06:30-call uspValidarAccesoUsuario('','')
+2018-12-13 23:06:53-Intento de acceso al sistema: 
+2018-12-13 23:06:53-call uspValidarAccesoUsuario('','')
+2018-12-13 23:07:46-Intento de acceso al sistema: 
+2018-12-13 23:07:46-call uspValidarAccesoUsuario('','')
+2018-12-13 23:07:57-Intento de acceso al sistema: 
+2018-12-13 23:07:57-call uspValidarAccesoUsuario('','')
+2018-12-13 23:08:07-Intento de acceso al sistema: 
+2018-12-13 23:08:07-call uspValidarAccesoUsuario('','')
+2018-12-13 23:15:31-Intento de acceso al sistema: 
+2018-12-13 23:15:34-call uspValidarAccesoUsuario('','')
+2018-12-13 23:18:03-Intento de acceso al sistema: 
+2018-12-13 23:18:05-call uspValidarAccesoUsuario('','')
+2018-12-13 23:18:38-Intento de acceso al sistema: Administrador
+2018-12-13 23:18:41-call uspValidarAccesoUsuario('Administrador','12345')
+2018-12-13 23:19:26-Intento de acceso al sistema: Administrador
+2018-12-13 23:19:26-call uspValidarAccesoUsuario('Administrador','12345')
+2018-12-13 23:19:30-Intento de acceso al sistema: Administrador
+2018-12-13 23:19:30-call uspValidarAccesoUsuario('Administrador','12345')
+2018-12-13 23:19:31-Intento de acceso al sistema: Administrador
+2018-12-13 23:19:31-call uspValidarAccesoUsuario('Administrador','12345')
+2018-12-13 23:19:32-Intento de acceso al sistema: Administrador
+2018-12-13 23:19:32-call uspValidarAccesoUsuario('Administrador','12345')
+2018-12-13 23:24:50-Intento de acceso al sistema: 
+2018-12-13 23:24:50-call uspValidarAccesoUsuario('','')
+2018-12-13 23:25:02-Intento de acceso al sistema: Administrador
+2018-12-13 23:25:02-call uspValidarAccesoUsuario('Administrador','12345')
+2018-12-13 23:27:28-Intento de acceso al sistema: 
+2018-12-13 23:27:28-call uspValidarAccesoUsuario('','')
+2018-12-13 23:27:38-Intento de acceso al sistema: Administrador
+2018-12-13 23:27:38-call uspValidarAccesoUsuario('Administrador','12345')
+2018-12-13 23:37:59-Intento de acceso al sistema: 
+2018-12-13 23:37:59-call uspValidarAccesoUsuario('','')
+2018-12-13 23:38:07-Intento de acceso al sistema: Administrador
+2018-12-13 23:38:07-call uspValidarAccesoUsuario('Administrador','12345')
+2018-12-13 23:45:34-Intento de acceso al sistema: sdk
+2018-12-13 23:45:34-call uspValidarAccesoUsuario('sdk','ll')
+2018-12-13 23:45:49-Intento de acceso al sistema: Administrador
+2018-12-13 23:45:49-call uspValidarAccesoUsuario('Administrador','12345')
+2018-12-13 23:46:26-Intento de acceso al sistema: Administrador
+2018-12-13 23:46:26-call uspValidarAccesoUsuario('Administrador','12345')
+2018-12-13 23:49:08-Intento de acceso al sistema: Administrador
+2018-12-13 23:49:08-call uspValidarAccesoUsuario('Administrador','12345')
+2018-12-14 00:16:01-Intento de acceso al sistema: Administrador
+2018-12-14 00:16:01-call uspValidarAccesoUsuario('Administrador','123456')
+2018-12-14 00:16:25-Intento de acceso al sistema: Administrador
+2018-12-14 00:16:25-call uspValidarAccesoUsuario('Administrador','ssssss')
+2018-12-14 00:16:54-Intento de acceso al sistema: Administrador
+2018-12-14 00:16:54-call uspValidarAccesoUsuario('Administrador','123456')
+2018-12-14 00:17:56-Intento de acceso al sistema: Administrador
+2018-12-14 00:17:56-call uspValidarAccesoUsuario('Administrador','sdsdsdd')
+2018-12-14 00:20:31-Intento de acceso al sistema: sdsdsds
+2018-12-14 00:20:31-call uspValidarAccesoUsuario('sdsdsds','dsdsdsdsd')
+2018-12-14 00:20:41-Intento de acceso al sistema: Administrador
+2018-12-14 00:20:41-call uspValidarAccesoUsuario('Administrador','123456')

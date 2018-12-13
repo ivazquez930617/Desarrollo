@@ -100,14 +100,14 @@
                                         <tr>
                                             <td id="label-form-descarga"><?php $Html->Label("LblNombreCompleto", "Nombre Completo:", "TxtNombreCompleto"); ?></td>
                                             <td>
-                                                <?php $Html->TextBox("TxtNombreCompleto", "", "class=\"form-control\"", "placeholder=\"Juan Ruiz Gomez\"", "required"); ?>
+                                                <?php $Html->TextBox("TxtNombreCompleto", "", "class=\"form-control\"", "placeholder=\"Juan Ruiz Gomez\"", "pattern=\"[A-Za-z ]{3,100}\"", "required"); ?>
                                                 <?php $Html->LabelError("Nombre no v&aacute;lido"); ?>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td id="label-form-descarga"><?php $Html->Label("LblInstitucion", "Institucion:", "TxtInstitucion"); ?></td>
                                             <td>
-                                                <?php $Html->TextBox("TxtInstitucion", "", "class=\"form-control\"", "placeholder=\"Tecnologico de Santa Ana\"", "required"); ?>
+                                                <?php $Html->TextBox("TxtInstitucion", "", "class=\"form-control\"", "placeholder=\"Tecnologico de Santa Ana\"", "pattern=\"[A-Za-z0-9 ]{5,100}\"", "required"); ?>
                                                 <?php $Html->LabelError("Instituci&oacute;n no v&aacute;lida"); ?>
                                             </td>
                                         </tr>
@@ -118,14 +118,14 @@
                                         <tr>
                                             <td id="label-form-descarga"><?php $Html->Label("LblAreaCarrera", "&Aacute;rea / Carrera:", "TxtAreaCarrera"); ?></td>
                                             <td>
-                                                <?php $Html->TextBox("TxtAreaCarrera", "", "class=\"form-control\"", "placeholder=\"Ingenieria en Sistemas\"", "required"); ?>
+                                                <?php $Html->TextBox("TxtAreaCarrera", "", "class=\"form-control\"", "placeholder=\"Ingenieria en Sistemas\"", "pattern=\"[A-Za-z ]{5,100}\"", "required"); ?>
                                                 <?php $Html->LabelError("&Aacute;rea / Carrera no v&aacute;lida"); ?>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td id="label-form-descarga"><?php $Html->Label("LblCorreo", "Correo Electr&oacute;nico:", "TxtCorreo"); ?></td>
                                             <td>
-                                                <?php $Html->TextBox("TxtCorreo", "", "class=\"form-control\"", "placeholder=\"micorreo@gmail.com\"", "pattern=\".+@+.+.com\"", "required"); ?>
+                                                <?php $Html->TextBox("TxtCorreo", "", "class=\"form-control\"", "placeholder=\"micorreo@gmail.com\"", "pattern=\"[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$\"", "required"); ?>
                                                 <?php $Html->LabelError("Correo no v&aacute;lido"); ?>
                                             </td>
                                         </tr>
@@ -148,7 +148,6 @@
         </div>
     </div>
 <script>
-// Example starter JavaScript for disabling form submissions if there are invalid fields
 (function() {
   'use strict';
 

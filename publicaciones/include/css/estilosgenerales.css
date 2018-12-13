@@ -2,13 +2,21 @@
     font-family: Arial, Helvetica, sans-serif;
     display: block;
     position: absolute;
-    top: 40%;
-    left: 40%;
+    top: 20%;
+    left: 70%;
     border-color: rgb(23, 162, 184);
     border-style: solid;
     border-width: 1px;
     padding: 25px;
     border-radius: 8px;
+    width: 450px;
+    height: 300px;
+}
+
+#MensajeSistema{
+    display: block;
+    position: absolute;
+    top: 190px;
 }
 
 #contenedor-drag{

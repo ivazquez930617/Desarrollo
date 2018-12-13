@@ -20,7 +20,7 @@ class CtrlGlobal
 					$this->Html->Link('LkAdministrador','Administrador', 'administrador.php', 'class=nav-link');
 				echo "</li>\n";
 				echo "<li class=\"".(($pagina=="Salir") ? "nav-item active" : "nav-item")."\">\n";
-					$this->Html->Link('LkSalir','Salir', 'salir.php', 'class=nav-link');
+					$this->Html->Link('LkSalir','Salir', 'http://127.0.0.1:8080/publicaciones/procesos/saliracceso.php', 'class=nav-link');
 				echo "</li>\n";
 			echo "</ul>\n";
 		echo "</nav>\n";
