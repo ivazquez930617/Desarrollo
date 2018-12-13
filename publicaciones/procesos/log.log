@@ -1,0 +1,135 @@
+2018-12-12 02:28:20-call uspValidarExistenciaPublicacion(0,'AOE000628MH5_NOM_NOMINA52781_1836','AOE000628MH5_NOM_NOMINA52781_1836.pdf')
+2018-12-12 02:28:20-call uspAgregarPublicacion('AOE000628MH5_NOM_NOMINA52781_1836','AOE000628MH5_NOM_NOMINA52781_1836.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-12 02:28:20-Inserta Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\AOE000628MH5_NOM_NOMINA52781_1836.pdf
+2018-12-12 02:28:36-call uspValidarExistenciaPublicacion(0,'AOE000628MH5_NOM_NOMINA52781_1836','AOE000628MH5_NOM_NOMINA52781_1836.pdf')
+2018-12-12 02:28:37-Inserta ya existe No cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\AOE000628MH5_NOM_NOMINA52781_1836.pdf
+2018-12-12 02:29:04-call uspValidarExistenciaPublicacion(0,'dddddd','Horario 19 de dddd.pdf')
+2018-12-12 02:29:05-call uspAgregarPublicacion('dddddd','Horario 19 de dddd.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-12 02:29:05-Inserta Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de dddd.pdf
+2018-12-12 02:29:29-call uspValidarExistenciaPublicacion('14','AOE000628MH5_NOM_NOMINA52781_1836','AOE000628MH5_NOM_NOMINA52781_1836.pdf')
+2018-12-12 02:29:30-call uspActualizarPublicacion('14','AOE000628MH5_NOM_NOMINA52781_1836','AOE000628MH5_NOM_NOMINA52781_1836.pdf','C:/xampp7/htdocs/publicaciones/repositorio/','3')
+2018-12-12 02:29:30-Actualiza Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\AOE000628MH5_NOM_NOMINA52781_1836.pdf
+2018-12-12 02:30:01-call uspValidarExistenciaPublicacion('15','a zzzz','Horario 19 de dddd.pdf')
+2018-12-12 02:30:02-call uspActualizarPublicacion('15','a zzzz','Horario 19 de dddd.pdf','C:/xampp7/htdocs/publicaciones/repositorio/','1')
+2018-12-12 02:30:02-Actualiza Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de dddd.pdf
+2018-12-12 02:30:19-call uspValidarExistenciaPublicacion('15','AOE000628MH5_NOM_NOMINA52781_1836','AOE000628MH5_NOM_NOMINA52781_1836.pdf')
+2018-12-12 02:30:20-Actualiza ya existe No cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\AOE000628MH5_NOM_NOMINA52781_1836.pdf
+2018-12-12 02:30:45-call uspValidarExistenciaPublicacion('15','nuevo nombre','')
+2018-12-12 02:30:45-call uspActualizarPublicacion('15','nuevo nombre','','','2')
+2018-12-12 02:30:45-Actualiza nombre publicacion Cargo valor: nuevo nombre
+2018-12-12 02:31:28-call uspEliminarPublicacion('15')
+2018-12-12 02:31:28-Se elimina publicación: 15
+2018-12-12 02:31:28-call uspListarPublicaciones()
+2018-12-12 02:32:10-call uspEliminarPublicacion('14')
+2018-12-12 02:32:10-Se elimina publicación: 14
+2018-12-12 02:33:30-call uspEliminarPublicacion('13')
+2018-12-12 02:33:30-Se elimina publicación: 13
+2018-12-12 02:33:30-call uspListarPublicaciones()
+2018-12-12 02:34:07-call uspEliminarPublicacion('12')
+2018-12-12 02:34:15-Se elimina publicación: 12
+2018-12-12 02:35:00-call uspEliminarPublicacion('11')
+2018-12-12 02:35:00-Se elimina publicación: 11
+2018-12-12 02:35:00-call uspListarPublicaciones(1)
+2018-12-12 02:42:24-call uspValidarExistenciaPublicacion('10','AOE000628MH5_NOM_NOMINA52781_1836','AOE000628MH5_NOM_NOMINA52781_1836.pdf')
+2018-12-12 02:42:24-call uspActualizarPublicacion('10','AOE000628MH5_NOM_NOMINA52781_1836','AOE000628MH5_NOM_NOMINA52781_1836.pdf','C:/xampp7/htdocs/publicaciones/repositorio/','3')
+2018-12-12 02:42:24-Actualiza Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\AOE000628MH5_NOM_NOMINA52781_1836.pdf
+2018-12-12 02:42:41-call uspValidarExistenciaPublicacion('10','nuevo nombre','AOE000628MH5_NOM_NOMINA52781_1836.pdf')
+2018-12-12 02:42:41-call uspActualizarPublicacion('10','nuevo nombre','AOE000628MH5_NOM_NOMINA52781_1836.pdf','C:/xampp7/htdocs/publicaciones/repositorio/','1')
+2018-12-12 02:42:41-Actualiza Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\AOE000628MH5_NOM_NOMINA52781_1836.pdf
+2018-12-12 02:42:50-call uspValidarExistenciaPublicacion('10','a zzzz','')
+2018-12-12 02:42:50-call uspActualizarPublicacion('10','a zzzz','','','2')
+2018-12-12 02:42:50-Actualiza nombre publicacion Cargo valor: a zzzz
+2018-12-12 02:50:34-call uspValidarExistenciaPublicacion(0,'CodeIgniter_3_1_9_Manual_Esp','CodeIgniter_3_1_9_Manual_Esp.pdf')
+2018-12-12 02:50:36-call uspAgregarPublicacion('CodeIgniter_3_1_9_Manual_Esp','CodeIgniter_3_1_9_Manual_Esp.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-12 02:50:37-Inserta Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\CodeIgniter_3_1_9_Manual_Esp.pdf
+2018-12-12 02:51:03-call uspValidarExistenciaPublicacion(0,'EdoCta_2018-02_00636197','EdoCta_2018-02_00636197.pdf')
+2018-12-12 02:51:06-call uspAgregarPublicacion('EdoCta_2018-02_00636197','EdoCta_2018-02_00636197.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-12 02:51:18-Inserta Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\EdoCta_2018-02_00636197.pdf
+2018-12-13 01:27:58-call uspInsertarInformacionDescarga('10','ismael vazque castro','teschi','1','ingenierai en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:27:59-Se descarga la publicación con id: 10
+2018-12-13 01:36:53-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:36:53-Se descarga la publicación con id: 10
+2018-12-13 01:40:39-call uspInsertarInformacionDescarga('16','sss','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:40:39-call uspInsertarInformacionDescarga('16','sss','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:40:39-Se descarga la publicación con id: 16
+2018-12-13 01:40:39-Se descarga la publicación con id: 16
+2018-12-13 01:43:39-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:43:39-Se descarga la publicación con id: 10
+2018-12-13 01:45:04-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:45:04-Se descarga la publicación con id: 10
+2018-12-13 01:45:04-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:45:05-Se descarga la publicación con id: 10
+2018-12-13 01:47:07-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:47:07-Se descarga la publicación con id: 10
+2018-12-13 01:47:08-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:47:08-Se descarga la publicación con id: 10
+2018-12-13 01:47:42-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:47:42-Se descarga la publicación con id: 10
+2018-12-13 01:48:41-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','2','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:48:41-Se descarga la publicación con id: 10
+2018-12-13 01:49:10-call uspInsertarInformacionDescarga('16','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:49:10-Se descarga la publicación con id: 16
+2018-12-13 01:51:25-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:51:25-Se descarga la publicación con id: 10
+2018-12-13 01:53:15-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:53:15-Se descarga la publicación con id: 10
+2018-12-13 01:53:50-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','2','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:53:50-Se descarga la publicación con id: 10
+2018-12-13 01:55:06-call uspInsertarInformacionDescarga('10','ismael vazquez castro','teschi','2','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 01:55:06-Se descarga la publicación con id: 10
+2018-12-13 02:36:43-call uspListarPublicacionesPorBusqueda('code')
+2018-12-13 02:36:50-call uspListarPublicacionesPorBusqueda('zz')
+2018-12-13 02:36:53-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:37:01-call uspListarPublicacionesPorBusqueda('a')
+2018-12-13 02:37:07-call uspListarPublicacionesPorBusqueda('c')
+2018-12-13 02:37:56-call uspListarPublicacionesPorBusqueda('c')
+2018-12-13 02:37:59-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:39:06-call uspValidarExistenciaPublicacion(0,'Ticket de Venta','Ticket de Venta.pdf')
+2018-12-13 02:39:06-call uspValidarExistenciaPublicacion(0,'Horario 19 de noviembre','Horario 19 de noviembre.pdf')
+2018-12-13 02:39:06-call uspAgregarPublicacion('Ticket de Venta','Ticket de Venta.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-13 02:39:06-call uspAgregarPublicacion('Horario 19 de noviembre','Horario 19 de noviembre.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-13 02:39:06-call uspValidarExistenciaPublicacion(0,'prueba','prueba.pdf')
+df')
+2018-12-13 02:39:06-Inserta Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Ticket de Venta.pdf
+2018-12-13 02:39:06-call uspValidarExistenciaPublicacion(0,'Ingenieria-en-Sistemas-Computacionales','Ingenieria-en-Sistemas-Computacionales.pdf')
+2018-12-13 02:39:06-call uspAgregarPublicacion('SaludCorp','SaludCorp.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-13 02:39:06-call uspAgregarPublicacion('Ingenieria-en-Sistemas-Computacionales','Ingenieria-en-Sistemas-Computacionales.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-13 02:39:06-Inserta Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Horario 19 de noviembre.pdf
+2018-12-13 02:39:06-Inserta Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\SaludCorp.pdf
+2018-12-13 02:39:06-Inserta Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\Ingenieria-en-Sistemas-Computacionales.pdf
+2018-12-13 02:39:06-Inserta Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\prueba.pdf
+2018-12-13 02:39:18-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:39:25-call uspListarPublicacionesPorBusqueda('a')
+2018-12-13 02:39:31-call uspListarPublicacionesPorBusqueda('c')
+2018-12-13 02:39:39-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:39:41-call uspListarPublicacionesPorBusqueda('-')
+2018-12-13 02:39:52-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:40:44-call uspValidarExistenciaPublicacion(0,'LABORATORIOS JAYOR','LABORATORIOS JAYOR.pdf')
+2018-12-13 02:40:44-call uspAgregarPublicacion('LABORATORIOS JAYOR','LABORATORIOS JAYOR.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-13 02:40:44-call uspValidarExistenciaPublicacion(0,'BOLETIN DICIEMBRE 2018','BOLETIN DICIEMBRE 2018.pdf')
+2018-12-13 02:40:44-call uspAgregarPublicacion('BOLETIN DICIEMBRE 2018','BOLETIN DICIEMBRE 2018.pdf','C:/xampp7/htdocs/publicaciones/repositorio/')
+2018-12-13 02:40:44-Inserta Cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\BOLETIN DICIEMBRE 2018.pdf
+2018-12-13 02:40:54-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:41:58-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:42:04-call uspListarPublicacionesPorBusqueda('-')
+2018-12-13 02:42:10-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:43:25-call uspValidarExistenciaPublicacion('10','LABORATORIOS JAYOR','LABORATORIOS JAYOR.pdf')
+2018-12-13 02:43:25-Actualiza ya existe No cargo valor: 0 C:\xampp7\htdocs\publicaciones\repositorio\LABORATORIOS JAYOR.pdf
+2018-12-13 02:43:50-call uspValidarExistenciaPublicacion('10','mil islas','')
+2018-12-13 02:43:50-call uspActualizarPublicacion('10','mil islas','','','2')
+2018-12-13 02:43:50-Actualiza nombre publicacion Cargo valor: mil islas
+2018-12-13 02:44:00-call uspEliminarPublicacion('10')
+2018-12-13 02:44:00-Se elimina publicación: 10
+2018-12-13 02:44:00-call uspListarPublicaciones(1)
+2018-12-13 02:45:33-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:45:38-call uspListarPublicacionesPorBusqueda('co')
+2018-12-13 02:45:44-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:45:51-call uspListarPublicacionesPorBusqueda('inge')
+2018-12-13 02:45:54-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:46:08-call uspListarPublicacionesPorBusqueda('ve')
+2018-12-13 02:46:11-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:46:16-call uspListarPublicacionesPorBusqueda('bo')
+2018-12-13 02:46:20-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:46:20-call uspListarPublicacionesPorBusqueda('')
+2018-12-13 02:53:06-call uspInsertarInformacionDescarga('16','ismael vazquez castro','teschi','1','ingenieria en sistemas computacionales','ivazquez@gmail.com')
+2018-12-13 02:53:06-Se descarga la publicación con id: 16

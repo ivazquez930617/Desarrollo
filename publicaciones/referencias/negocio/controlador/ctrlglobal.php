@@ -1,5 +1,5 @@
 <?php
-include_once "referencias/html/html.php";
+include_once "C:\\xampp7\\htdocs\\publicaciones\\referencias\\html\\html.php";
 
 class CtrlGlobal
 {
@@ -21,6 +21,17 @@ class CtrlGlobal
 				echo "</li>\n";
 				echo "<li class=\"".(($pagina=="Salir") ? "nav-item active" : "nav-item")."\">\n";
 					$this->Html->Link('LkSalir','Salir', 'salir.php', 'class=nav-link');
+				echo "</li>\n";
+			echo "</ul>\n";
+		echo "</nav>\n";
+	}
+
+	public function RenderizarMenuPublicaciones($pagina)
+	{
+		echo "<nav class=\"navbar navbar-expand-sm bg-primary navbar-dark fixed-top\">\n";
+			echo "<ul class=\"navbar-nav\">\n";
+				echo "<li class=\"".(($pagina=="Publicaciones") ? "nav-item active" : "nav-item")."\">\n";
+					$this->Html->Link('LkPublicaciones','Publicaciones', 'index.php', 'class=nav-link');
 				echo "</li>\n";
 			echo "</ul>\n";
 		echo "</nav>\n";

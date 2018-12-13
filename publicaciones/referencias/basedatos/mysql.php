@@ -1,6 +1,6 @@
 <?php
-include_once "basedatos.php";
-include_once "referencias/negocio/controlador/ctrlglobal.php";
+include_once "C:\\xampp7\\htdocs\\publicaciones\\referencias\\basedatos\\basedatos.php";
+include_once "C:\\xampp7\\htdocs\\publicaciones\\referencias\\negocio\\controlador\\ctrlglobal.php";
 	
 class Mysql
 {

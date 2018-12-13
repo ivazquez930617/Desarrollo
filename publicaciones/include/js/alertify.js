@@ -48,8 +48,8 @@
         },
         glossary:{
             title:'Mensaje del sistema',
-            ok: 'SI',
-            cancel: 'NO',
+            ok: 'Aceptar',
+            cancel: 'Cancelar',
             acccpt: 'Aceptar',
             deny: 'Denegar',
             confirm: 'Confirmar',

@@ -1,5 +1,5 @@
 <?php
-include_once "referencias/basedatos/mysql.php";
+include_once "C:\\xampp7\\htdocs\\publicaciones\\referencias\\basedatos\\mysql.php";
 
 class CtrlListado
 {
@@ -12,8 +12,16 @@ class CtrlListado
 	    $this->Rawdata = array();
     }
 
-    public function ListarPublicaciones(){
-    	return $this->Mysqli->ExecuteDataSetArray('uspListarPublicaciones');
+    public function ListarPublicaciones($ModuloListado){
+    	return $this->Mysqli->ExecuteDataSetArray('uspListarPublicaciones', $ModuloListado);
+    }
+
+    public function ObtenerCatalogoTipoPersona(){
+    	return $this->Mysqli->ExecuteDataSetArray('uspObtenerCatalogoTipoPersona');
+    }
+    
+    public function BuscarPublicaciones($pNombre){
+        return $this->Mysqli->ExecuteDataSetArray('uspListarPublicacionesPorBusqueda', $pNombre);
     }
 }
 ?>

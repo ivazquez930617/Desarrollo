@@ -1,5 +1,5 @@
 <?php
-include_once "referencias/basedatos/mysql.php";
+include_once "../referencias/basedatos/mysql.php";
 
 class CtrlCarga
 {
@@ -22,11 +22,16 @@ class CtrlCarga
         $this->Mysqli->ExecuteDataSetArrayFull('uspEliminarPublicacion', $IdPublicacion);
     }
 
-    public function ValidarExistenciaPublicacion($nombreArch)
+    public function ActualizarDatosArchivosCargados($IdPublicacion, $nombrePub, $nombreArch, $rutaRepo, $Operacion)
+    {
+        $this->Mysqli->ExecuteDataSetArrayFull('uspActualizarPublicacion', $IdPublicacion, $nombrePub, $nombreArch, $rutaRepo, $Operacion);
+    }
+    
+    public function ValidarExistenciaPublicacion($IdPublicacion, $NombrePublicacion, $NombreArchivo)
     {
         $i=0;
         $Rawdata = array();
-        $resultlocal = $this->Mysqli->ExecuteDataSetArray('uspValidarExistenciaPublicacion', $nombreArch);
+        $resultlocal = $this->Mysqli->ExecuteDataSetArray('uspValidarExistenciaPublicacion', $IdPublicacion, $NombrePublicacion, $NombreArchivo);
 
         while($row = mysqli_fetch_array($resultlocal))
 		{
@@ -35,6 +40,21 @@ class CtrlCarga
         }
         
         return $Rawdata[0]["IdMensaje"];
+    }
+
+    public function InsertarSolicitudDescarga($pIdPublicacion, $pNombreCompleto, $pInstitucion, $pIdTipoPersona, $pAreaCarrera, $pCorreoElectronico)
+    {
+        $i=0;
+        $Rawdata = array();
+        $resultlocal = $this->Mysqli->ExecuteDataSetArray('uspInsertarInformacionDescarga', $pIdPublicacion, $pNombreCompleto, $pInstitucion, $pIdTipoPersona, $pAreaCarrera, $pCorreoElectronico);
+
+        while($row = mysqli_fetch_array($resultlocal))
+		{
+			$Rawdata[$i] = $row;
+			$i++;
+        }
+        
+        return $Rawdata[0]["URlDescarga"];
     }
 }
 ?>
